@@ -59,7 +59,7 @@ footer {
   padding: 2em;
   border-radius: 10px;
   box-shadow: 0px 0px 5px #000000aa;
-  min-height: 40vh;
+  min-height: 50vh;
   width: 60vw;
   display: flex;
   flex-direction: column;
@@ -72,11 +72,11 @@ footer {
 }
 .logo {
   position: absolute;
-  width: 100px;
-  height: 100px;
-  border-radius: 50px;
+  width: 14vh;
+  height: 14vh;
+  border-radius: 7vh;
   z-index: 2;
-  top: -60px;
+  top: -7vh;
   background: url(logo.png);
   background-size: 100% 100%;
   outline: 3px solid #ff6d00ff;
